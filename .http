@@ -1,0 +1,10 @@
+POST http://localhost:3000/add-new-info
+Content-Type: application/json
+
+{
+    "name":"Swaraj C",
+    "regno":"201900381",
+    "marks":46
+}
+
+
